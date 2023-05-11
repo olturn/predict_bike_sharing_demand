@@ -26,12 +26,7 @@ Autogluon is designed to find the best solution without hyperparameter tuning, s
 I would spend more time feature engineering, to identify the most important features and remove the unimportant ones.
 
 ### Create a table with the models you ran, the hyperparameters modified, and the kaggle score.
-
-model	          hpo1	          hpo2	          hpo3	          score
-0	hpo	          presets	      num_bag_folds	  XGB            1.39252
-1	add_features default	      default	      default        1.80159
-2	initial      default	      default	      default        1.79036
-
+![table.png](img/table.png)
 
 
 ### the top model score for the three training runs during the project.
